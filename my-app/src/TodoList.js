@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './TodoList.css';
+import './Todolist.css';
 
 const vibrantColors = [
   '#ff69b4',
